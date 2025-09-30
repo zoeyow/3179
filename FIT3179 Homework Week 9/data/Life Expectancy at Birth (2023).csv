@@ -1,0 +1,266 @@
+FREQ_LABEL,REF_AREA,REF_AREA_LABEL,INDICATOR_LABEL,SEX_LABEL,AGE_LABEL,URBANISATION_LABEL,UNIT_MEASURE_LABEL,TIME_PERIOD,OBS_VALUE
+Annual,AFE,Africa Eastern and Southern,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,65.14629086
+Annual,AFW,Africa Western and Central,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,58.85572155
+Annual,ARB,Arab World,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.44467836
+Annual,CSS,Caribbean small states,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.171645
+Annual,CEB,Central Electricity Board (CEB),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.89678365
+Annual,EAR,Early-demographic dividend,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.79624498
+Annual,EAS,East Asia & Pacific,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.65951833
+Annual,EAP,East Asia & Pacific (excluding high income),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.88068309
+Annual,TEA,East Asia & Pacific (IDA & IBRD),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.90856436
+Annual,EMU,Euro area,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.19200762
+Annual,ECS,Europe & Central Asia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.38701832
+Annual,ECA,Europe & Central Asia (excluding high income),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.79871528
+Annual,TEC,Europe & Central Asia (IDA & IBRD),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.7300564
+Annual,EUU,European Union,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.41145038
+Annual,FCS,Fragile and conflict affected situations,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,63.37328126
+Annual,HPC,Heavily indebted poor countries (HIPC),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,64.71590542
+Annual,HIC,High income,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.15001512
+Annual,IBD,IBRD only,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.52096995
+Annual,IBT,IDA & IBRD total,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.00082092
+Annual,IDB,IDA blend,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,62.46216433
+Annual,IDX,IDA only,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.05383189
+Annual,IDA,IDA total,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,65.45352231
+Annual,LTE,Late-demographic dividend,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.13012054
+Annual,LCN,Latin America & Caribbean,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.64352933
+Annual,LAC,Latin America & Caribbean (excluding high income),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.49860133
+Annual,TLA,Latin America & Caribbean (IDA & IBRD),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.56992584
+Annual,LDC,Least developed countries: UN classification,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.51610026
+Annual,LMY,Low & middle income,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.97400488
+Annual,LIC,Low income,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,64.51789579
+Annual,LMC,Lower middle income,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,69.59637466
+Annual,MEA,Middle East and North Africa,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.08394124
+Annual,MNA,Middle East & North Africa (excluding high income),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.27588499
+Annual,TMN,Middle East & North Africa (IDA & IBRD),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.31945609
+Annual,MIC,Middle income,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.74319387
+Annual,NAC,North America,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.73282137
+Annual,OED,OECD members,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.1615573
+Annual,OSS,Other small states,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.56469451
+Annual,PSS,Pacific island small states,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,69.2745949
+Annual,PST,Post-demographic dividend,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.82283464
+Annual,PRE,Pre-demographic dividend,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,62.16362989
+Annual,SST,Small states,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.90071976
+Annual,SAS,South Asia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.32476488
+Annual,TSA,South Asia (IDA & IBRD),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.32476488
+Annual,SSF,Sub-Saharan Africa,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,62.60291349
+Annual,SSA,Sub-Saharan Africa (excluding high income),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,62.06547988
+Annual,TSS,Sub-Saharan Africa (IDA & IBRD),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,62.60291349
+Annual,UMC,Upper middle income,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.1953051
+Annual,WLD,World,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.32971628
+Annual,AFG,Afghanistan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.035
+Annual,ALB,Albania,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,79.602
+Annual,DZA,Algeria,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.261
+Annual,ASM,American Samoa,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.852
+Annual,AND,Andorra,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,84.041
+Annual,AGO,Angola,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,64.617
+Annual,ATG,Antigua and Barbuda,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.598
+Annual,ARG,Argentina,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.395
+Annual,ARM,Armenia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.46585366
+Annual,ABW,Aruba,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.353
+Annual,AUS,Australia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.05121951
+Annual,AUT,Austria,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.54146341
+Annual,AZE,Azerbaijan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.429
+Annual,BHS,"Bahamas, The","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.552
+Annual,BHR,Bahrain,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.284
+Annual,BGD,Bangladesh,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.672
+Annual,BRB,Barbados,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.178
+Annual,BLR,Belarus,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.18378049
+Annual,BEL,Belgium,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.39756098
+Annual,BLZ,Belize,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.566
+Annual,BEN,Benin,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,60.774
+Annual,BMU,Bermuda,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.309
+Annual,BTN,Bhutan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.975
+Annual,BOL,Bolivia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,68.581
+Annual,BIH,Bosnia and Herzegovina,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.85
+Annual,BWA,Botswana,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,69.163
+Annual,BRA,Brazil,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.848
+Annual,VGB,British Virgin Islands,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.276
+Annual,BRN,Brunei Darussalam,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.327
+Annual,BGR,Bulgaria,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.70731707
+Annual,BFA,Burkina Faso,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,61.092
+Annual,BDI,Burundi,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,63.651
+Annual,CPV,Cabo Verde,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.059
+Annual,KHM,Cambodia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,70.668
+Annual,CMR,Cameroon,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,63.7
+Annual,CAN,Canada,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.64658537
+Annual,CYM,Cayman Islands,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.358
+Annual,CAF,Central African Republic,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,57.408
+Annual,TCD,Chad,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,55.069
+Annual,CHI,Channel Islands,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.1
+Annual,CHL,Chile,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.167
+Annual,CHN,China,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.953
+Annual,COL,Colombia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.725
+Annual,COM,Comoros,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.777
+Annual,COD,"Congo, Dem. Rep.","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,61.895
+Annual,COG,"Congo, Rep.","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,65.772
+Annual,CRI,Costa Rica,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.799
+Annual,CIV,Cote d'Ivoire,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,61.944
+Annual,HRV,Croatia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.47317073
+Annual,CUB,Cuba,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.085
+Annual,CUW,Curacao,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.8
+Annual,CYP,Cyprus,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.648
+Annual,CZE,Czechia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,79.87804878
+Annual,DNK,Denmark,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.85365854
+Annual,DJI,Djibouti,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,65.987
+Annual,DMA,Dominica,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.132
+Annual,DOM,Dominican Republic,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.72
+Annual,ECU,Ecuador,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.392
+Annual,EGY,"Egypt, Arab Rep.","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.633
+Annual,SLV,El Salvador,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.099
+Annual,GNQ,Equatorial Guinea,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,63.707
+Annual,ERI,Eritrea,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,68.624
+Annual,EST,Estonia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.4902439
+Annual,SWZ,Eswatini,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,64.123
+Annual,ETH,Ethiopia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.315
+Annual,FRO,Faroe Islands,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.14390244
+Annual,FJI,Fiji,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.316
+Annual,FIN,Finland,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.68536585
+Annual,FRA,France,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.92926829
+Annual,PYF,French Polynesia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,84.07
+Annual,GAB,Gabon,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,68.337
+Annual,GMB,"Gambia, The","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,65.86
+Annual,GEO,Georgia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.496
+Annual,DEU,Germany,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.54146341
+Annual,GHA,Ghana,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,65.498
+Annual,GIB,Gibraltar,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.553
+Annual,GRC,Greece,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.53658537
+Annual,GRL,Greenland,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.5497561
+Annual,GRD,Grenada,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.205
+Annual,GUM,Guam,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.209
+Annual,GTM,Guatemala,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.602
+Annual,GIN,Guinea,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,60.74
+Annual,GNB,Guinea-Bissau,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,64.085
+Annual,GUY,Guyana,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,70.18
+Annual,HTI,Haiti,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,64.936
+Annual,HND,Honduras,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.884
+Annual,HKG,"Hong Kong SAR, China","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,85.24731707
+Annual,HUN,Hungary,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.77073171
+Annual,ISL,Iceland,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.60731707
+Annual,IND,India,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.003
+Annual,IDN,Indonesia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.146
+Annual,IRN,"Iran, Islamic Rep.","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.654
+Annual,IRQ,Iraq,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.324
+Annual,IRL,Ireland,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.86097561
+Annual,IMN,Isle of Man,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.999
+Annual,ISR,Israel,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.19512195
+Annual,ITA,Italy,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.7
+Annual,JAM,Jamaica,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.479
+Annual,JPN,Japan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,84.04121951
+Annual,JOR,Jordan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.814
+Annual,KAZ,Kazakhstan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.402
+Annual,KEN,Kenya,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,63.646
+Annual,KIR,Kiribati,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.473
+Annual,PRK,"Korea, Dem. People's Rep.","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.642
+Annual,KOR,"Korea, Rep.","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.42926829
+Annual,XKX,Kosovo,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.033
+Annual,KWT,Kuwait,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.18780488
+Annual,KGZ,Kyrgyz Republic,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.24878049
+Annual,LAO,Lao PDR,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,68.964
+Annual,LVA,Latvia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.67804878
+Annual,LBN,Lebanon,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.817
+Annual,LSO,Lesotho,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,57.375
+Annual,LBR,Liberia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,62.163
+Annual,LBY,Libya,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,69.339
+Annual,LIE,Liechtenstein,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,84.84146341
+Annual,LTU,Lithuania,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.98780488
+Annual,LUX,Luxembourg,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.35853659
+Annual,MAC,"Macao SAR, China","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.1804878
+Annual,MDG,Madagascar,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,63.632
+Annual,MWI,Malawi,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.353
+Annual,MYS,Malaysia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.657
+Annual,MDV,Maldives,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.041
+Annual,MLI,Mali,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,60.439
+Annual,MLT,Malta,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.50731707
+Annual,MHL,Marshall Islands,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.945
+Annual,MRT,Mauritania,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,68.484
+Annual,MUS,Mauritius,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.41219512
+Annual,MEX,Mexico,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.069
+Annual,FSM,"Micronesia, Fed. Sts.","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.198
+Annual,MDA,Moldova,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.198
+Annual,MCO,Monaco,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,86.372
+Annual,MNG,Mongolia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.12243902
+Annual,MNE,Montenegro,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.58780488
+Annual,MAR,Morocco,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.313
+Annual,MOZ,Mozambique,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,63.611
+Annual,MMR,Myanmar,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.889
+Annual,NAM,Namibia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.385
+Annual,NRU,Nauru,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,62.109
+Annual,NPL,Nepal,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,70.354
+Annual,NLD,Netherlands,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.91463415
+Annual,NCL,New Caledonia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.766
+Annual,NZL,New Zealand,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.00487805
+Annual,NIC,Nicaragua,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.947
+Annual,NER,Niger,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,61.183
+Annual,NGA,Nigeria,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,54.462
+Annual,MKD,North Macedonia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,75.31609756
+Annual,MNP,Northern Mariana Islands,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.808
+Annual,NOR,Norway,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.11219512
+Annual,OMN,Oman,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.031
+Annual,PAK,Pakistan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.649
+Annual,PLW,Palau,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,69.269
+Annual,PAN,Panama,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,79.594
+Annual,PNG,Papua New Guinea,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.134
+Annual,PRY,Paraguay,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.844
+Annual,PER,Peru,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.74
+Annual,PHL,Philippines,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,69.833
+Annual,POL,Poland,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.50731707
+Annual,PRT,Portugal,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.2804878
+Annual,PRI,Puerto Rico,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.69
+Annual,QAT,Qatar,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.368
+Annual,ROU,Romania,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.60731707
+Annual,RUS,Russian Federation,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.25463415
+Annual,RWA,Rwanda,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.785
+Annual,WSM,Samoa,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.698
+Annual,SMR,San Marino,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,85.706
+Annual,STP,Sao Tome and Principe,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,69.718
+Annual,SAU,Saudi Arabia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.732
+Annual,SEN,Senegal,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,68.683
+Annual,SRB,Serbia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.22097561
+Annual,SYC,Seychelles,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.95853659
+Annual,SLE,Sierra Leone,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,61.786
+Annual,SGP,Singapore,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.89512195
+Annual,SXM,Sint Maarten (Dutch part),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.371
+Annual,SVK,Slovak Republic,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.01707317
+Annual,SVN,Slovenia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.97804878
+Annual,SLB,Solomon Islands,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,70.528
+Annual,SOM,Somalia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,58.816
+Annual,ZAF,South Africa,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.139
+Annual,SDS,South Sudan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,57.617
+Annual,ESP,Spain,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.88292683
+Annual,LKA,Sri Lanka,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.483
+Annual,KNA,St. Kitts and Nevis,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.145
+Annual,LCA,St. Lucia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.697
+Annual,MAF,St. Martin (French part),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.224
+Annual,VCT,St. Vincent and the Grenadines,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.23
+Annual,SDN,Sudan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.331
+Annual,SUR,Suriname,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.631
+Annual,SWE,Sweden,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,83.3097561
+Annual,CHE,Switzerland,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,84.05609756
+Annual,SYR,Syrian Arab Republic,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.12
+Annual,TJK,Tajikistan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.79
+Annual,TZA,Tanzania,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.995
+Annual,THA,Thailand,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.412
+Annual,TLS,Timor-Leste,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.689
+Annual,TGO,Togo,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,62.739
+Annual,TON,Tonga,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.895
+Annual,TTO,Trinidad and Tobago,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.49
+Annual,TUN,Tunisia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,76.508
+Annual,TUR,Turkiye,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,77.156
+Annual,TKM,Turkmenistan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,70.073
+Annual,TCA,Turks and Caicos Islands,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.008
+Annual,TUV,Tuvalu,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,67.105
+Annual,UGA,Uganda,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,68.252
+Annual,UKR,Ukraine,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,73.422
+Annual,ARE,United Arab Emirates,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,82.909
+Annual,GBR,United Kingdom,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,81.23809756
+Annual,USA,United States,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.38536585
+Annual,URY,Uruguay,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,78.138
+Annual,UZB,Uzbekistan,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.388
+Annual,VUT,Vanuatu,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,71.477
+Annual,VEN,"Venezuela, RB","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,72.514
+Annual,VNM,Viet Nam,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,74.588
+Annual,VIR,Virgin Islands (U.S.),"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,80.5195122
+Annual,PSE,West Bank and Gaza,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,65.17
+Annual,YEM,"Yemen, Rep.","Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,69.295
+Annual,ZMB,Zambia,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,66.349
+Annual,ZWE,Zimbabwe,"Life expectancy at birth, total (years)",Total,All age ranges or no breakdown by age,Total,Years,2023,62.775
