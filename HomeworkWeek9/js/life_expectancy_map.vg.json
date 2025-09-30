@@ -39,7 +39,7 @@
             "lookup": "properties.ADM0_A3",
             "from": {
                 "data":{
-                    "url": "https://raw.githubusercontent.com/zoeyow/3179/refs/heads/main/FIT3179HomeworkWeek9/data/Life%20Expectancy%20at%20Birth%20(2023).csv"
+                    "url": "https://raw.githubusercontent.com/zoeyow/3179/refs/heads/main/HomeworkWeek9/data/Life%20Expectancy%20at%20Birth%20(2023).csv"
                 },
                 "key": "REF_AREA",
                 "fields": [
@@ -66,4 +66,5 @@
         }
     ],
     "config": {}
+
 }
