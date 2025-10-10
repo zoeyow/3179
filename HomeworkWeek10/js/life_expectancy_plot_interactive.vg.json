@@ -133,9 +133,10 @@
           {"field": "Entity", "type": "nominal", "title": "Country"},
           {"field": "GDP per capita, PPP (constant 2021 international $)", "type": "quantitative", "format": ",", "title": "GDP per capita ($)"},
           {"field": "Life expectancy - Sex: all - Age: 0 - Variant: estimates", "type": "quantitative", "format": ",", "title": "Total Life Expectancy at birth (years)"},
-          {"field": "Population (historical)", "type": "quantitative", "title": "Population"}
+          {"field": "Population (historical)", "type": "quantitative", "format": ",", "title": "Population"}
         ]
       }
     }
   ]
+
 }
