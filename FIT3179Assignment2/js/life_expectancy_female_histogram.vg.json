@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300,
+  "height": 260,
+  "title": "Female Life Expectancy at birth Distribution",
+  "data": {"url": "data/womens-life-expectancy-at-birth.csv"},
+  "params": [
+    {
+      "name": "Year_selection",
+      "value": 2023,
+      "bind": {
+        "input": "range",
+        "min": 1960,
+        "max": 2023,
+        "step": 1,
+        "name": "Select Year: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Year == Year_selection"}
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "bin": true,
+      "field": "Life expectancy - Sex: female - Age: 0 - Variant: estimates",
+      "title": "Life Expectancy at birth (years)"
+    },
+    "y": {
+      "aggregate": "count",
+      "title": "Number of Countries"
+    },
+    "tooltip": [
+      {"aggregate": "count", "type": "quantitative", "format": ",", "title": "Number of Countries"},
+      {"field": "Year", "type": "quantitative", "title": "Year"}
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Global Share of Deaths (%) by Age Group",
+  "width": "container",
+  "data": { "url": "data/share-of-death-world.csv" },
+
+  "params": [
+    {
+      "name": "yearParam",
+      "value": 2023,
+      "bind": { "input": "range", "min": 1980, "max": 2023, "step": 1 , "name": "Select Year: "}
+    }
+  ],
+  "transform": [
+    {
+      "joinaggregate": [
+        { "op": "sum", "field": "val", "as": "year_total" }
+      ],
+      "groupby": ["year"]
+    },
+    { "calculate": "datum.val / datum.year_total * 100", "as": "share_pct" },
+    { "filter": "datum.year == yearParam" }
+  ],
+
+  "mark": { "type": "arc", "innerRadius": 70, "outerRadius": 140, "stroke": "white" },
+
+  "encoding": {
+    "theta": { "field": "share_pct", "type": "quantitative", "stack": true },
+    "color": {
+      "field": "age_name", "type": "nominal",
+      "title": "Age group",
+      "scale": { "scheme": "tableau10" },
+      "legend": { "orient": "left" }
+    },
+    "tooltip": [
+      { "field": "age_name", "title": "Age group" },
+      { "field": "val", "title": "Number of Deaths", "format": ",.0f" },
+      { "field": "share_pct", "title": "Share (%)", "format": ".1f" },
+      { "field": "year", "title": "Year" }
+    ]
+  },
+  "config": {
+  "view": {
+     "stroke": "transparent"
+  }
+}
+}
