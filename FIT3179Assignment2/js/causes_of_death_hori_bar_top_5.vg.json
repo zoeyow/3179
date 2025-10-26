@@ -38,7 +38,7 @@
         "mark": "bar"
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "Cardiovascular"},
         "x": {"value": 150},
@@ -46,7 +46,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "diseases has"},
         "x": {"value": 150},
@@ -54,7 +54,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "consistently"},
         "x": {"value": 150},
@@ -62,7 +62,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "account for millions"},
         "x": {"value": 150},
@@ -70,7 +70,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "of deaths over"},
         "x": {"value": 150},
@@ -78,7 +78,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "the years."},
         "x": {"value": 150},
@@ -88,3 +88,4 @@
   ],
   "config": {"view": {"stroke": "transparent"}}
 }
+
