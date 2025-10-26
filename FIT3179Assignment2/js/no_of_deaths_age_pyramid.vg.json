@@ -60,7 +60,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "The number of deaths"},
         "x": {"value": 80},
@@ -68,7 +68,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "for age groups above 50"},
         "x": {"value": 80},
@@ -76,7 +76,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "has increased since 1990,"},
         "x": {"value": 80},
@@ -84,7 +84,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "especially the 70-74 age"},
         "x": {"value": 80},
@@ -92,7 +92,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "group for the male"},
         "x": {"value": 80},
@@ -100,7 +100,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "population, and the 80-84"},
         "x": {"value": 80},
@@ -108,7 +108,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "age group for the female"},
         "x": {"value": 80},
@@ -116,7 +116,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "population."},
         "x": {"value": 80},
@@ -124,7 +124,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "Infant mortality and"},
         "x": {"value": 80},
@@ -132,7 +132,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "the mortality of children"},
         "x": {"value": 80},
@@ -140,7 +140,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "age 0-4 has decreased by"},
         "x": {"value": 80},
@@ -148,7 +148,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "a significant amount."},
         "x": {"value": 80},
@@ -156,7 +156,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "since 1990."},
         "x": {"value": 80},
@@ -164,7 +164,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "The number of deaths"},
         "x": {"value": 650},
@@ -172,7 +172,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "are generally higher"},
         "x": {"value": 650},
@@ -180,7 +180,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "for males than females"},
         "x": {"value": 650},
@@ -188,7 +188,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "which further proves the"},
         "x": {"value": 650},
@@ -196,7 +196,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "previous point about"},
         "x": {"value": 650},
@@ -204,7 +204,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "higher life expectancy"},
         "x": {"value": 650},
@@ -212,7 +212,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "for females"},
         "x": {"value": 650},
@@ -220,7 +220,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "The population age between"},
         "x": {"value": 650},
@@ -228,7 +228,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "5-34 has extremely"},
         "x": {"value": 650},
@@ -236,7 +236,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "low mortality rates"},
         "x": {"value": 650},
@@ -244,7 +244,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "since 1990."},
         "x": {"value": 650},
@@ -255,4 +255,5 @@
   "config": {
     "view": {"stroke": null}
   }
+
 }
