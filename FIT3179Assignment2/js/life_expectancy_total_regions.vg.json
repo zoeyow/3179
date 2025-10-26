@@ -51,7 +51,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "Africa has the lowest"},
         "x": {"value": 75},
@@ -59,7 +59,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "life expectancy but"},
         "x": {"value": 75},
@@ -67,7 +67,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "has improved greatly"},
         "x": {"value": 75},
@@ -75,7 +75,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "throughout the years."},
         "x": {"value": 75},
@@ -83,7 +83,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "Asia was the second lowest in"},
         "x": {"value": 90},
@@ -91,7 +91,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "1960, but it has the greatest"},
         "x": {"value": 90},
@@ -99,7 +99,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "improvement across all regions"},
         "x": {"value": 90},
@@ -107,7 +107,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "overtime."},
         "x": {"value": 90},
@@ -115,7 +115,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "Europe was the highest in"},
         "x": {"value": 90},
@@ -123,7 +123,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "1960, but now Oceania has"},
         "x": {"value": 90},
@@ -131,7 +131,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "taken the lead."},
         "x": {"value": 90},
@@ -144,4 +144,5 @@
       "stroke": "transparent"
     }
   }
+
 }
