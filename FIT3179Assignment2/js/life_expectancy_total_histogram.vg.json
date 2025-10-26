@@ -44,7 +44,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "A sudden drop in life"},
         "x": {"value": 150},
@@ -59,7 +59,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "expectancy could be"},
         "x": {"value": 150},
@@ -74,7 +74,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "affected by the number"},
         "x": {"value": 150},
@@ -89,7 +89,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "of deaths from COVID-19."},
         "x": {"value": 150},
@@ -104,7 +104,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "In 1960, only"},
         "x": {"value": 150},
@@ -119,7 +119,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "several countries could"},
         "x": {"value": 150},
@@ -134,7 +134,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "achieve a 70-80 life expectancy."},
         "x": {"value": 150},
@@ -149,7 +149,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "From 1992 onwards,"},
         "x": {"value": 150},
@@ -164,7 +164,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "countries started acheiving"},
         "x": {"value": 150},
@@ -179,7 +179,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "80-90 in life expectancy"},
         "x": {"value": 150},
@@ -194,7 +194,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "In 2002-2003, it had the highest"},
         "x": {"value": 150},
@@ -209,7 +209,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "number of countries to"},
         "x": {"value": 150},
@@ -224,7 +224,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "achieve a life expectancy"},
         "x": {"value": 150},
@@ -239,7 +239,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "between 70-80 years."},
         "x": {"value": 150},
@@ -254,7 +254,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "There are no countries"},
         "x": {"value": 150},
@@ -269,7 +269,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "with a life expectacy"},
         "x": {"value": 150},
@@ -284,7 +284,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "smaller than 50 years."},
         "x": {"value": 150},
@@ -299,7 +299,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "More countries started"},
         "x": {"value": 150},
@@ -307,7 +307,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "achieving higher life"},
         "x": {"value": 150},
@@ -315,7 +315,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "expectancy as the years"},
         "x": {"value": 150},
@@ -323,7 +323,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "went by."},
         "x": {"value": 150},
@@ -336,4 +336,5 @@
      "stroke": "transparent"
   }
 }
+
 }
