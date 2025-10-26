@@ -50,7 +50,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "More countries started"},
         "x": {"value": 130},
@@ -58,7 +58,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "achieving higher male life"},
         "x": {"value": 130},
@@ -66,7 +66,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "expectancy as the years"},
         "x": {"value": 130},
@@ -74,7 +74,7 @@
       }
     },
     {
-      "mark": {"type": "text", "baseline": "middle", "dy": -10},
+      "mark": {"type": "text", "baseline": "left", "dy": -10},
       "encoding": {
         "text": {"value": "went by."},
         "x": {"value": 130},
@@ -87,4 +87,5 @@
      "stroke": "transparent"
   }
 }
+
 }
